@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Garrett&#39;s Webcard</title>
+    <link>https://garrettgoodrich.github.io/GarrettWebcard.github.io/</link>
+    <description>Recent content on Garrett&#39;s Webcard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://garrettgoodrich.github.io/GarrettWebcard.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://garrettgoodrich.github.io/GarrettWebcard.github.io/about/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://garrettgoodrich.github.io/GarrettWebcard.github.io/about/</guid>
+      <description>Greetings, Web Traveler: I&amp;rsquo;m Garrett, and I am a professional computer science major and graduate who is also into tinkering. I am proficient in Python and C++, and I&amp;rsquo;m familar with web development(work in progress). It is my goal to further expand my knowledge in software development.
+Hobbies:   Hardware  I build custom computers and repurpose older ones as servers. Examples include reusing older hardware as a nas server using truenas.</description>
+    </item>
+    
+  </channel>
+</rss>
