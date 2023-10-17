@@ -10,7 +10,7 @@ html {
 /* change the font characterisitcs on the body*/
 body {
 
-	background-color: #38606f;
+	background-color: #0a8d96;
 	height: 100%;
 	font-family: 'JetBrains_Mono', 'monospace';
 }
@@ -32,11 +32,11 @@ img {
 }
 
 a {
-    color: rgb(31, 181, 198);
+    color: rgb(141, 185, 189);
 }
 
 a:hover {
-    color: #0a8d96;
+    color: #bbebef;
 }
 
 
@@ -90,7 +90,7 @@ h1,h2,h3,h4,h5,h6 {
 
 i {
 	margin: 10px 20px 10px 20px;
-	color: #0a8d96;
+	color: #9cdde1;
 }
 
 .post-link {
